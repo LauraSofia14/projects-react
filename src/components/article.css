@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: beige;
+    
+}
+
+h1 {
+    text-align:center;
+}
+
+img {
+    display: block;
+    margin:  auto;
+    max-width: 45%; 
+    height: auto;
+    margin-bottom: 20px;
+    background-color: antiquewhite;
+    
+}
+
+p {
+    text-align:center;
+    line-height: 1.5;
+    
+}
